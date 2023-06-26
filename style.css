@@ -7,13 +7,15 @@
     padding: 0;
     /* Para que el scrolleo en la one page sea suave */
     scroll-behavior: smooth;
-}
+   }
 
 body {
     font-family: 'Lato', sans-serif;
     font-size: 18px;
     background-color: #fbfbfb;
     color: #0f0f0f;
+    max-width: 1200px;
+    margin: auto;
 }
 
 header {
