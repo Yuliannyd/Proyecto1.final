@@ -14,7 +14,7 @@ body {
     font-size: 18px;
     background-color: #fbfbfb;
     color: #0f0f0f;
-    max-width: 1200px;
+    max-width: 100%;
     margin: auto;
 }
 
@@ -134,3 +134,8 @@ main {
     max-width: 1200px;
     margin: auto;
 }
+
+
+
+
+
