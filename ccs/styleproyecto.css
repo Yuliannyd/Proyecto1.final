@@ -7,7 +7,7 @@
     padding: 0;
     /* Para que el scrolleo en la one page sea suave */
     scroll-behavior: smooth;
-   }
+      }
 
 body {
     font-family: 'Lato', sans-serif;
@@ -132,9 +132,6 @@ a {
 */
 main {
      margin: auto;
+     max-width: 1200px;
 }
-
-
-
-
 
