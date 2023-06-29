@@ -131,8 +131,7 @@ a {
 *  el margin: auto; para tenerlo centrado fácilmente ;)
 */
 main {
-    max-width: 1200px;
-    margin: auto;
+     margin: auto;
 }
 
 
